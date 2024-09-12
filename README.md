@@ -12,7 +12,7 @@ Please go over the Blood Flow ReadMe file for details
  MATLAB software is required. 
 
  ## License 
- Copyright Shantanu Singh. See Lincense.txt for licensing information. 
+ Copyright Shantanu Singh. See License.txt for licensing information. 
 
  ## Acknowledgement 
  Funded by the European Union (ERC, C-NORA, 101088147). Views and opinions expressed are however those of the authors only and do not necessarily reflect those of the European Union or the European Research Council. Neither the European Union nor the granting authority can be held responsible for them.
