@@ -1,0 +1,4 @@
+MATLAB implementation of the finite-volume method based numerical scheme as described in the manusript "Numerical and Lyapunov-Based Investigation of the Effect of Stenosis on Blood Transport Stability Using a Control-Theoretic PDE Model of Cardiovascular Flow" by Shantanu Singh and Nikolaos Bekiaris-Liberis.
+Copyright (C) 2024 by Shantanu Singh
+
+The project is lincesed under  CC BY-NC-ND. For a copy of the license, see https://creativecommons.org/licenses/by-nc-nd/4.0/
